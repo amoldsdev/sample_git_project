@@ -18,10 +18,10 @@ public class Company {
 		this.name = name;
 	}
 	public String getAddress() {
-		return address;
+		return city;
 	}
 	public void setAddress(String address) {
-		this.address = address;
+		this.city = city;
 	}
 	//Just a comment!
 	
